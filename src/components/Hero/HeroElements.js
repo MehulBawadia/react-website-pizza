@@ -10,10 +10,9 @@ export const HeroContainer = styled.div`
 `;
 
 export const HeroContent = styled.div`
-  height: calc(100vh -80px);
+  height: calc(100vh - 80px);
   max-height: 100%;
-  width: 100vw;
-  padding: 0 calc((100vw - 1300px) / 2);
+  padding: 0rem calc((100vw - 1300px) / 2);
 `;
 
 export const HeroItems = styled.div`
@@ -58,7 +57,7 @@ export const HeroBtn = styled.button`
   &:hover {
     background: #ffc500;
     transition: 0.2s ease-out;
-    curspor: pointer;
+    cursor: pointer;
     color: #000;
   }
 `;
