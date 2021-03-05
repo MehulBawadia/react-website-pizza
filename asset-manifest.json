@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/reat-website-pizza/static/js/main.c52baf1c.chunk.js",
+    "main.js.map": "/reat-website-pizza/static/js/main.c52baf1c.chunk.js.map",
+    "runtime-main.js": "/reat-website-pizza/static/js/runtime-main.2a74beb6.js",
+    "runtime-main.js.map": "/reat-website-pizza/static/js/runtime-main.2a74beb6.js.map",
+    "static/js/2.f3f7dca2.chunk.js": "/reat-website-pizza/static/js/2.f3f7dca2.chunk.js",
+    "static/js/2.f3f7dca2.chunk.js.map": "/reat-website-pizza/static/js/2.f3f7dca2.chunk.js.map",
+    "static/js/3.28a6b94b.chunk.js": "/reat-website-pizza/static/js/3.28a6b94b.chunk.js",
+    "static/js/3.28a6b94b.chunk.js.map": "/reat-website-pizza/static/js/3.28a6b94b.chunk.js.map",
+    "index.html": "/reat-website-pizza/index.html",
+    "static/js/2.f3f7dca2.chunk.js.LICENSE.txt": "/reat-website-pizza/static/js/2.f3f7dca2.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/reat-website-pizza/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/reat-website-pizza/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/reat-website-pizza/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/reat-website-pizza/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/reat-website-pizza/static/media/product-3.115cc32b.jpg",
+    "static/media/sweet-2.d5cf1ad2.jpg": "/reat-website-pizza/static/media/sweet-2.d5cf1ad2.jpg",
+    "static/media/sweet-3.badeecbe.jpg": "/reat-website-pizza/static/media/sweet-3.badeecbe.jpg",
+    "static/media/sweet3.c495c742.jpg": "/reat-website-pizza/static/media/sweet3.c495c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a74beb6.js",
+    "static/js/2.f3f7dca2.chunk.js",
+    "static/js/main.c52baf1c.chunk.js"
+  ]
+}
